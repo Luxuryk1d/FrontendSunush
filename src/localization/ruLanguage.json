@@ -1,0 +1,62 @@
+{
+    "app.sign_in": "Войти",
+    "app.sign_up": "Зарегистрироваться",
+  
+    "app.sign_in_Title": "Вход",
+  
+    "app.phone": "Номер",
+    "app.password": "Пароль",
+  
+  
+    "app.sign_in_HeaderNavigation": "Вход",
+    "app.sign_up_HeaderNavigation": "Регистрация",
+  
+    "app.log_out": "Выйти из аккаунта",
+    "app.myOwnProfile": "Личный кабинет",
+  
+    "app.phoneNumber": "Номер телефона",
+    "app.phoneNumberIsAlreadyUsed": "Номер {message} уже используется",
+    "app.fullName": "ФИО",
+  
+    "app.moderator": "Администрация",
+  
+    "app.noAccountYet": "Нет аккаунта?",
+    "app.haveAccountAlready": "Уже есть аккаунт?",
+  
+  
+    "app.addApplication_Title_PlaceHolder": "Опишите вашу проблему в нескольких словах",
+    "app.addApplication_Description_PlaceHolder": "Постарайтесь максимально развёрнуто описать вашу проблему",
+  
+    "app.phoneHelperText": "В формате +996123456789",
+  
+    "app.myProfilePage": "Мой профиль",
+  
+    "app.answerQuestion": "Ответить",
+  
+    "app.author": "Автор",
+  
+  
+    "app.askQuestion_HeaderNavigation": "Задать вопрос",
+  
+    "app.region": "Регион",
+  
+    "app.category": "Категория",
+    "app.categories": "Категории",
+    "app.allQuestions_Category": "Все вопросы",
+  
+    "app.questionDetails": "Подробнее >",
+    "app.title": "Заголовок",
+    "app.description": "Описание",
+    "app.loadImage": "Загрузить фото",
+    "app.addApplication": "Оставить заявку",
+    "app.notPublished": "Неопубликовано",
+  
+    "app.loadedImages": "Загруженные фотографии",
+    "app.newImages": "Новые фотографии",
+  
+    "app.usernameInputRegister": "Логин",
+    "app.passwordInputRegister": "Пароль должен состоять из 8 символов и более.",
+  
+    "app.delete": "Удалить"
+  }
+  

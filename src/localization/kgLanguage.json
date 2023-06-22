@@ -1,0 +1,57 @@
+{
+    "app.sign_in": "Кирүү",
+    "app.sign_up": "Катталуу",
+  
+    "app.phone": "Номер",
+    "app.password": "Пароль",
+  
+    "app.sign_in_Title": "Кирүү",
+  
+    "app.sign_in_HeaderNavigation": "Кирүү",
+    "app.sign_up_HeaderNavigation": "Катталуу",
+  
+    "app.log_out": "Чыгуу",
+    "app.myOwnProfile": "Менин профилим",
+  
+    "app.phoneNumber": "Телефон номери",
+    "app.phoneNumberIsAlreadyUsed": "{message} номери колдонулуп жатат",
+    "app.fullName": "ФИО",
+  
+    "app.moderator": "Администрация",
+  
+    "app.noAccountYet": "Аккаунт жокпу?",
+    "app.haveAccountAlready": "Аккаунт барбы?",
+  
+    "app.addApplication_Title_PlaceHolder": "Проблемаңызды бир нече сөз менен айтып бериңиз",
+    "app.addApplication_Description_PlaceHolder": "Көйгөйүңүздү мүмкүн болушунча толук сүрөттөгөнгө аракет кылыңыз",
+  
+    "app.phoneHelperText": "+996123456789 форматта",
+  
+    "app.myProfilePage": "Менин профилим",
+  
+    "app.saveChanges": "Өзгөрүүлөрдү сактоо",
+    "app.cancel": "Жокко чыгаруу",
+  
+    "app.author": "Автору",
+  
+    "app.askQuestion_HeaderNavigation": "Суроо берүү",
+  
+  
+    "app.answerQuestion": "Жооп берүү",
+  
+    "app.region": "Регион",
+  
+    "app.category": "Категориясы",
+    "app.categories": "Категориялар",
+    "app.allQuestions_Category": "Бардык суроолор",
+  
+    "app.questionDetails": "Дагы маалымат >",
+    "app.title": "Баш аталышы",
+    "app.description": "Баяндама",
+    "app.loadImage": "Сүрөт жүктөө",
+    "app.addApplication": "Билдирме берүү",
+    "app.notPublished": "Жарыяланган жок",
+
+    "app.loadedImages": "Жүктөлгөн сүрөттөр"
+  
+  }
